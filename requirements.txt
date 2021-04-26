@@ -1,0 +1,8 @@
+flake8==3.8.2
+Pillow
+pyyaml
+sentencepiece
+tensorboard
+tensorboardX
+typeguard
+scipy
