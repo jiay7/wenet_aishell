@@ -7,6 +7,6 @@
 
 另外在conf/*.yaml中添加了参数：
 
-  augment: true
-  musan_path: "/home/caidanwei/musan/"
-  rir_path: "/home/caidanwei/RIRS_NOISES/simulated_rirs/"
+  * augment: true
+  * musan_path: "/home/caidanwei/musan/"
+  * rir_path: "/home/caidanwei/RIRS_NOISES/simulated_rirs/"
